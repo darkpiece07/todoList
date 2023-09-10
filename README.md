@@ -1,0 +1,1 @@
+This project is a simple TodoList Application. It consists of CRUD APIs that used to post a task, get all tasks, get a single task, delete a task, delete all tasks, update a task. consists of an alert message after posting a task. it consists of two application home and tasks. 
